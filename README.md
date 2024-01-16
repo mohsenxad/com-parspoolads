@@ -13,7 +13,7 @@
     - [جمع آوری اطلاعات از گوگل ترند](seo/googleTrends/README.md)
     - [لیست کلمات کلیدی ارائه شده توسط کارفرما](seo/provided-keywords.md)
     - تایید الویت کلمات کلیدی با کارفرما
-    - [بررسی رقبا در هر کلمه ی کلیدی](seo/competitors.md)
+    - [بررسی رقبا در هر کلمه ی کلیدی](seo/competitors/README.md)
     - [ایجاد ارتباط بین محتواهای تولید شده](seo/links/README.md)
 
 
