@@ -2,34 +2,36 @@
 
 الویت بندی کلمات کلیدی بر اساس نتیجه ی گزارش گوگل ترند
 
-1. خط تولید نمک
-2. مشاوره راه اندازی خط تولید نمک
-3. کلرید کلسیم
-4. خط تولید کلرید کلسیم
-5. مشاوره راه اندازی خط تولید کلرید کلسیم
-6. سولفات
-7. خط تولید سولفات
-8. مشاوره راه اندازی خط تولید سولفات
-9. ساخت استراکچرهای فلزی
-10. ساخت سیلو
-11. ساخت مخازن فلزی
-12. ساخت مخازن استیل
-13. ساخت خطوط تولید
-14. ساخت سانتریفیوژ پوشر
-15. برشکاری با پلاسما
-16. برشکاری با لیزر
-17. طراحی و ساخت الواتور
-18. طراحی و ساخت انواع سیکلون
-19. طراحی و ساخت خطوط پایپینگ فلزی و استیل
-20. طراحی و ساخت انواع پمپ
-21. طراحی و ساخت انواع خشک کن
-22. طراحی و ساخت هلیکس
-23. طراحی و ساخت انواع کوره
-24. طراحی و ساخت فن های سانتریفیوژ
-25. طراحی و ساخت انواع مبدل
-26. مجهز به دستگاه خم و نورد
-27. مجهز به ماشین آلات فرز و تراش cnc
-28. مجهز به دستگاه لیزر برشکاری فلزات ۶.۶ کیلووات
-29. طراحی ماشین آلات صنعتی
-30. ساخت ماشین آلات صنعتی
-31. مشاوره طراحی فرآیند تولید قطعات صنعتی
+|الویت| کلمه|رقبا|ترند جستجو| جستجو پذیری| رتبه فعلی سایت
+|---|---|---|---|---|---|
+|1|خط تولید نمک|[موبایل](./competitors/mobile.md#خط-تولید-نمک) [دستکتاپ](./competitors/desktop.md#خط-تولید-نمک)|[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%AE%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%86%D9%85%DA%A9&hl=en)|X|
+|2|مشاوره راه اندازی خط تولید نمک||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87%20%D8%B1%D8%A7%D9%87%20%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%20%D8%AE%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%86%D9%85%DA%A9&hl=en)|X|1|
+|3|کلرید کلسیم||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%DA%A9%D9%84%D8%B1%DB%8C%D8%AF%20%DA%A9%D9%84%D8%B3%DB%8C%D9%85&hl=en)|جستجو پذیر|>10|
+|4|خط تولید کلرید کلسیم||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%AE%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D9%84%D8%B1%DB%8C%D8%AF%20%DA%A9%D9%84%D8%B3%DB%8C%D9%85&hl=en)|X|2|
+|5|مشاوره راه اندازی خط تولید کلرید کلسیم||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87%20%D8%B1%D8%A7%D9%87%20%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%20%D8%AE%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D9%84%D8%B1%DB%8C%D8%AF%20%DA%A9%D9%84%D8%B3%DB%8C%D9%85&hl=en)|X|1|
+|6|سولفات||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA&hl=en)|جستجو پذیر|>10|
+|7|خط تولید سولفات||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%AE%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA&hl=en)|X|>10|
+|8|مشاوره راه اندازی خط تولید سولفات||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87%20%D8%B1%D8%A7%D9%87%20%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%20%D8%AE%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA&hl=en)|X|1|
+|9|ساخت استراکچرهای فلزی||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%DA%A9%DA%86%D8%B1%D9%87%D8%A7%DB%8C%20%D9%81%D9%84%D8%B2%DB%8C&hl=en)|X|>10|
+|10|ساخت سیلو||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%B3%DB%8C%D9%84%D9%88&hl=en)|جستجو پذیر|>10|
+|11|ساخت مخازن فلزی||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%AE%D8%A7%D8%B2%D9%86%20%D9%81%D9%84%D8%B2%DB%8C&hl=en)|X|>10|
+|12|ساخت مخازن استیل||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%AE%D8%A7%D8%B2%D9%86%20%D8%A7%D8%B3%D8%AA%DB%8C%D9%84&hl=en)|X|>10|
+|13|ساخت خطوط تولید||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AE%D8%B7%D9%88%D8%B7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF&hl=en)|X|>10|
+|14|ساخت سانتریفیوژ پوشر||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%B3%D8%A7%D9%86%D8%AA%D8%B1%DB%8C%D9%81%DB%8C%D9%88%DA%98%20%D9%BE%D9%88%D8%B4%D8%B1&hl=en)|X|4|
+|15|برشکاری با پلاسما||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%A8%D8%B1%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%A7%20%D9%BE%D9%84%D8%A7%D8%B3%D9%85%D8%A7&hl=en)|X|>10|
+|16|برشکاری با لیزر||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%A8%D8%B1%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%A7%20%D9%84%DB%8C%D8%B2%D8%B1&hl=en)|X|>10|
+|17|طراحی و ساخت الواتور||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%84%D9%88%D8%A7%D8%AA%D9%88%D8%B1&hl=en)|X|>10|
+|18|طراحی و ساخت انواع سیکلون||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%DB%8C%DA%A9%D9%84%D9%88%D9%86&hl=en)|X|>10|
+|19|طراحی و ساخت خطوط پایپینگ فلزی و استیل||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AE%D8%B7%D9%88%D8%B7%20%D9%BE%D8%A7%DB%8C%D9%BE%DB%8C%D9%86%DA%AF%20%D9%81%D9%84%D8%B2%DB%8C%20%D9%88%20%D8%A7%D8%B3%D8%AA%DB%8C%D9%84&hl=en)|X|3|
+|20|طراحی و ساخت انواع پمپ||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%BE%D9%85%D9%BE&hl=en)|X|>10|
+|21|طراحی و ساخت انواع خشک کن||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AE%D8%B4%DA%A9%20%DA%A9%D9%86&hl=en)|X|>10|
+|22|طراحی و ساخت هلیکس||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%87%D9%84%DB%8C%DA%A9%D8%B3&hl=en)|X|1|
+|23|طراحی و ساخت انواع کوره||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%DA%A9%D9%88%D8%B1%D9%87&hl=en)|X|>10|
+|24|طراحی و ساخت فن های سانتریفیوژ||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%D9%86%20%D9%87%D8%A7%DB%8C%20%D8%B3%D8%A7%D9%86%D8%AA%D8%B1%DB%8C%D9%81%DB%8C%D9%88%DA%98&hl=en)|X|9|
+|25|طراحی و ساخت انواع مبدل||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%A8%D8%AF%D9%84&hl=en)|X|>10|
+|26|مجهز به دستگاه خم و نورد||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D9%85%D8%AC%D9%87%D8%B2%20%D8%A8%D9%87%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20%D8%AE%D9%85%20%D9%88%20%D9%86%D9%88%D8%B1%D8%AF&hl=en)|X|>10|
+|27|ماشین آلات فرز و تراش مجهز به cnc||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D9%81%D8%B1%D8%B2%20%D9%88%20%D8%AA%D8%B1%D8%A7%D8%B4%20%D9%85%D8%AC%D9%87%D8%B2%20%D8%A8%D9%87%20cnc&hl=en)|X|>10|
+|28|مجهز به دستگاه لیزر برشکاری فلزات ۶.۶ کیلووات||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D9%85%D8%AC%D9%87%D8%B2%20%D8%A8%D9%87%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20%D9%84%DB%8C%D8%B2%D8%B1%20%D8%A8%D8%B1%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C%20%D9%81%D9%84%D8%B2%D8%A7%D8%AA%20%DB%B6.%DB%B6%20%DA%A9%DB%8C%D9%84%D9%88%D9%88%D8%A7%D8%AA&hl=en)|X|>10|
+|29|طراحی ماشین آلات صنعتی||[نمودار](https://trends.google.com/trends/explore?date=now%201-d&q=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C&hl=en)|X|>10|
+|30|ساخت ماشین آلات صنعتی||[نمودار](https://trends.google.com/trends/explore?q=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C&hl=en)|X|>10|
+|31|مشاوره طراحی فرآیند تولید قطعات صنعتی||[نمودار](https://trends.google.com/trends/explore?q=%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87%20%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%81%D8%B1%D8%A2%DB%8C%D9%86%D8%AF%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C&hl=en)|X|>10|
