@@ -1,0 +1,14 @@
+body{
+    font-family: Tahoma;
+    direction: rtl;
+    border: 1px solid black;
+    padding: 50px;
+}
+
+img {
+    width: 300px;
+}
+
+table tr td{
+    border: 1px solid;
+}

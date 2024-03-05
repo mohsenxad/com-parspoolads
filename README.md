@@ -36,3 +36,8 @@
 
 - ایجاد محتوای AMP
 - چند زبانه کردن سایت
+
+
+```
+markdown-pdf -f "A4" -s ./main.css ./README.md
+```
